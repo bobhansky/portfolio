@@ -19,6 +19,6 @@ author: admin
 ---
 
 👋 Hi, I'm enthusiastic in computer graphics rendering. I have played with cpu based ray tracing, gpu rasterization with opengl and vulkan
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right,rgb(203, 195, 186) 0%,rgb(33, 19, 2) 30%,rgb(33, 18, 4) 60%,rgb(15, 8, 1) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background:rgb(244, 116, 116); background: linear-gradient(to right,rgb(203, 195, 186) 0%,rgb(33, 19, 2) 30%,rgb(33, 18, 4) 60%,rgb(15, 8, 1) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below 😍
