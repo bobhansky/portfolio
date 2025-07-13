@@ -18,7 +18,9 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm enthusiastic in computer graphics rendering. I'm looking for computer graphics related job (preferred) or general backend programmer job.
+bio: I'm a current Master student majoring in Computer Science at UCSD.
+  I'm enthusiastic in computer graphics rendering. 
+  I'm looking for computer graphics related job (preferred) or general backend programmer job.
 
 interests:
 - off-line physically based rendering
@@ -66,5 +68,5 @@ social:
 #email: ""
 ---
 
-
+你好
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
