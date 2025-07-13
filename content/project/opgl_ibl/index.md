@@ -1,6 +1,6 @@
 ---
-title: Opengl Imaged Based Lighting
-summary: Incorporate with Microfacet Theroy (Trowbridge-Reitz)
+title: Real-time Imaged Based Lighting Demo
+summary: OpenGL, GLSL, Incorporate with Microfacet Theroy (Trowbridge-Reitz)
 tags:
   - RST
 date: 2022-01-01
