@@ -28,12 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Rasterization
+      tag: RST
+    - name: Ray Tracing
+      tag: RT
 
 design:
   columns: '1'
