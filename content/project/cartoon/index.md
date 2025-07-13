@@ -1,8 +1,7 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: CPU based raytracing renderer
+summary: Implement with BDPT, Microfacet theory etc.
 tags:
   - CV
-date: 2022-01-01
-external_link: http://github.com
+external_link: https://github.com/bobhansky/TutuRenderer
 ---
