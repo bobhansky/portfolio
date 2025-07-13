@@ -29,11 +29,7 @@ experience:
     location: Hangzhou, China
     date_start: '2024-09-01'
     date_end: '2024-11-01'
-    description: |2-
-         Writing extension for Python 3.12 (Cpython) with C++ 17 to dump and load data with Msgpack format (json-like). 
-        · Using shared resources mechanism to reduce memory usage when loading object from binary msgpack data to 
-        realtime game engine. Enable custom edit for the object whose data is shared while preserving the shared data unchanged. 
-        · RAII mechanism wrapper class for PyObject* to prevent memory leaks
+    description: 
 
   - title: Research Assistance
     company: University of Minnesota Twin Cities
@@ -42,13 +38,7 @@ experience:
     location: California
     date_start: '2023-05-01'
     date_end: '2024-9-01'
-    description: |2-
-        Experience with writing shader with HLSL to create a fixed fovea restrictor with peripheral post-processing effect to 
-        mitigate the cybersickness using VR headset.
-      · Experience with building Unity3D projects, setting up gameplay logic (C#) with Meta Oculus Quest2, writing custom 
-        post-processing effects with built-in rendering pipeline. 
-      · Conducting in-person VR experiment on 36 participants to collect real-time experiment data such as 3D motion 
-        tracking. Data collected by scripts (C#) written from scratch
+    description: 
 
 design:
   columns: '1'
