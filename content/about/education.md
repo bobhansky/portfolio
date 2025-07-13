@@ -30,7 +30,7 @@ experience:
     date_start: '2025-09-01'
     date_end: '2027'
 
-  - title: Bachelor of Computer Science
+- title: Bachelor of Computer Science
     company: University of Minnesota Twin Cities
     company_url: ''
     company_logo: UMN
