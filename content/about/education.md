@@ -26,9 +26,9 @@ experience:
     company: University of California San Diego
     company_url: ''
     company_logo: org-x
-    location: California
+    location: San Diego, California
     date_start: '2025-09-01'
-    date_end: '2027'
+    date_end: '2025-09-01'
 
 - title: Bachelor of Computer Science
     company: University of Minnesota Twin Cities
