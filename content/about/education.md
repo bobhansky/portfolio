@@ -25,7 +25,7 @@ experience:
   - title: Bachelor in Computer Science
     company: University of Minnesota
     company_url: ''
-    company_logo: org-c
+    company_logo: org-x
     location: California
     date_start: '2021-09-01'
     date_end: '2025-08-01'
