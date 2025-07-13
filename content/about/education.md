@@ -22,18 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Master of Computer Science
+-   title: Master of Computer Science
     company: University of California San Diego
     company_url: ''
-    company_logo: org-x
+    company_logo: ucsd
     location: California
     date_start: '2025-09-01'
-    date_end: '2025-09-02'
+    date_end: '2027'
 
-- title: Bachelor of Computer Science
+-   title: Bachelor of Computer Science
     company: University of Minnesota Twin Cities
     company_url: ''
-    company_logo: org-x
+    company_logo: umn
     location: Minnesota
     date_start: '2021-09-01'
     date_end: '2025-08-01'
