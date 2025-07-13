@@ -18,11 +18,11 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm enthusiastic in computer graphics rendering. I have played with cpu based ray tracing, gpu rasterization with opengl and vulkan
+bio: I'm enthusiastic in computer graphics rendering. I'm looking for computer graphics related job (preferred) or general backend programmer job.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
+interests:
+- off-line physically based rendering
+- realtime rendering
 #- Information Retrieval
 
 #education:
@@ -66,6 +66,5 @@ social:
 #email: ""
 ---
 
-edit in the future
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
