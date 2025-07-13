@@ -25,7 +25,7 @@ experience:
 - title: Master of Electronic Engineering
     company: University of California San Diego
     company_url: ''
-    company_logo: ucsd
+    company_logo: org-x
     location: California
     date_start: '2025-09-01'
     date_end: '2027'
@@ -33,7 +33,7 @@ experience:
 - title: Bachelor of Computer Science
     company: University of Minnesota Twin Cities
     company_url: ''
-    company_logo: UMN
+    company_logo: org-x
     location: Minneapolis, Minnesota
     date_start: '2021-09-01'
     date_end: '2025-08-01'
