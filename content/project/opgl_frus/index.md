@@ -1,7 +1,7 @@
 ---
-title: Frustum Culling Performance Analysis
+title: 3. Frustum Culling Performance Analysis
 summary: C++, OpenGL, GLSL. Featured BVH, CPU side Frustum Culling, GPU side Frustum Culling, Instance Drawing, Compute Shader
-  to analyze realtime rendering performance bottleneck and Performance Improvement.
+  to analyze realtime rendering performance bottleneck and do Performance Improvement.
 tags:
   - RST
 date: 2022-01-01
