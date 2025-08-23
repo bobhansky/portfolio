@@ -28,7 +28,7 @@ experience:
     company_logo: ucsd
     location: California
     date_start: '2025-09-22'
-    date_end: '2026-12-20 (expected)'
+    date_end: '2026-12-20'
 
 -   title: Bachelor of Computer Science
     company: University of Minnesota Twin Cities
