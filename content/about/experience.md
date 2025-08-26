@@ -35,7 +35,7 @@ experience:
       realtime game engine. Enable custom edit for the object whose data is shared while preserving the shared data unchanged. 
       * RAII mechanism wrapper class for PyObject* to prevent memory leaks
 
-  - title: Research Assistance
+  - title: Research Assistant
     company: University of Minnesota Twin Cities
     company_url: ''
     company_logo: umn
