@@ -39,7 +39,7 @@ experience:
     company: University of Minnesota Twin Cities
     company_url: ''
     company_logo: umn
-    location: California
+    location: Minneapolis
     date_start: '2023-05-01'
     date_end: '2024-09-01'
     description: |2-
