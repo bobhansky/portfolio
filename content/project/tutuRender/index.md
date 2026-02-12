@@ -1,5 +1,5 @@
 ---
-title: 1. CPU Offline Ray Tracing Renderer
+title: 1. CPU Ray Tracing Renderer
 summary: C++. Integrator includes Light Tracing, Path Tracing, Bidirectional Path Tracing.
 tags:
   - RT
