@@ -1,6 +1,6 @@
 ---
-title:  3. CPU Ray Tracing with Disney Principled BSDF and Volumetric Path Tracing.
-summary: C++. Implementing Disney Principled BSDF (2012), Volumetric Path Tracing on lajolla renderer.
+title:  3. CPU Ray Tracing with Disney Principle BSDF and Volumetric Path Tracing.
+summary: C++. Implementing Disney Principle BSDF (2012), Volumetric Path Tracing on lajolla renderer.
 tags:
   - RT
 date: 2022-01-01
