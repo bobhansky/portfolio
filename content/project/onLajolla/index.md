@@ -4,5 +4,5 @@ summary: C++. Implementing Disney Principle BSDF (2012), Volumetric Path Tracing
 tags:
   - RT
 date: 2022-01-01
-external_link: https://github.com/bobhansky/DisneyBSDF_VolumetricPath_Lajolla
+external_link: https://github.com/bobhansky/Edits_On_Lajolla
 ---
