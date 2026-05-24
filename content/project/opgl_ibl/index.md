@@ -1,6 +1,6 @@
 ---
-title: 4. Real-time Image Based Lighting Demo
-summary: Realtime GPU programming. C++, OpenGL, GLSL, Incorporate with Microfacet Theroy (Trowbridge-Reitz normal distribution) to do Image Based Lighting with rasterization. (Aug. 2025)
+title: Real-time Image Based Lighting Demo (Aug. 2025)
+summary: Realtime GPU programming. C++, OpenGL, GLSL, Incorporate with Microfacet Theroy (Trowbridge-Reitz normal distribution) to do Image Based Lighting with rasterization. 
 tags:
   - RST
 date: 2025-08-01

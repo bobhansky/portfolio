@@ -1,6 +1,6 @@
 ---
-title: Vulkan Grass Rendering
-summary: Realtime GPU programming, C++. Vulkan, GLSL. Used Tessellation for geometry generation, and computer shader for Animation and Performance Improvement. (Dec. 2025)
+title: Vulkan Grass Rendering (Dec. 2025)
+summary: Realtime GPU programming, C++. Vulkan, GLSL. Used Tessellation for geometry generation, and computer shader for Animation and Performance Improvement. 
 tags:
   - RST
 date: 2025-12-01
