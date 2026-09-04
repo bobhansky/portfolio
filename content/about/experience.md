@@ -28,7 +28,7 @@ experience:
     company_logo: Apple
     location: Cupertino, CA
     date_start: '2026-06-22'
-    date_end: '2026-9-18'
+    date_end: '2026-09-18'
     description: |2- 
       * Media Processing. Video Rendering Pipeline. Video Playback.
 
