@@ -22,7 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
+    - title: Software Engineer Intern
+    company: Apple Inc.
+    company_url: ''
+    company_logo: Apple
+    location: Cupertino, CA
+    date_start: '2026-06-22'
+    date_end: '2026-09-18'
+    description: |2- 
+      * Media Processing. Video Rendering Pipeline. Video Playback.
 
 
   - title: Game Engine Development Engineer Intern

@@ -22,7 +22,9 @@ author: admin
 
 Hi, I'm a current Master student majoring in Computer Science at UCSD. 
 
-I'm happy thank you.
+My interests lie in Computer Graphics Rendering, Ray tracing. System Programming.
+I'm looking for 2027 Full time job.
+
 {style="font-size: 1.2rem; background:rgb(244, 116, 116); background: linear-gradient(to right,rgb(203, 195, 186) 0%,rgb(33, 19, 2) 30%,rgb(33, 18, 4) 60%,rgb(15, 8, 1) 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Belows are some projects I've been working on.
